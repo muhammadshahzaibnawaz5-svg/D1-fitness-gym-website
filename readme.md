@@ -186,9 +186,9 @@ Developed with professional frontend engineering standards to establish a powerf
 
 For professional collaboration, development services, or customization inquiries:
 
-* GitHub: [Your GitHub Profile](https://github.com/)
+* GitHub: https://github.com
 * Email: muhammadshahzaibnawaz5@gmail.com
-* Portfolio: [Your Portfolio Link](http://mshahzaib.great-site.net/)
+* Portfolio: http://mshahzaib.great-site.net
 
 ---
 
